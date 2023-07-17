@@ -8,8 +8,7 @@
     "start": "node server.js"
   },
   "engine": {
-    "node": "v20.4.0",
-    "npm": "9.7.2"
+    "node": "v20.x"
   },
   "keywords": [],
   "author": "",
