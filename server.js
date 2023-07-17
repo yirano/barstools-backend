@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const nbaRoutes = require('./routes/nba');
 const mlbRoutes = require('./routes/mlb');
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 5001;
 
 const app = express();
 app.use(cors());
